@@ -4,5 +4,16 @@
     "password": "1",
     "created": 1764262212015,
     "expires": 1766854212015
+  },
+  {
+    "username": "joyst",
+    "password": "1",
+    "created": 1764262891152,
+    "expires": 1764266491152,
+    "hwidLock": true,
+    "hwid": null,
+    "lastLogin": null,
+    "loginCount": 0,
+    "active": true
   }
 ]
