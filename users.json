@@ -4,7 +4,21 @@
     "password": "1",
     "created": 1764262212015,
     "expires": 1766854212015,
-    "hwidLock": false,
-    "hwid": null
+    "hwidLock": true
+  },
+  {
+    "username": "14344434",
+    "password": "3443",
+    "created": 1764268499564,
+    "expires": 1764272099564,
+    "hwidLock": true,
+    "hwid": null,
+    "lastLogin": null,
+    "loginCount": 0,
+    "active": true,
+    "securityLevel": "standard",
+    "allowedIPs": [],
+    "failedAttempts": 0,
+    "lockUntil": 0
   }
 ]
