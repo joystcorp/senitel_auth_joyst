@@ -3,7 +3,8 @@
     "username": "1",
     "password": "1",
     "created": 1764262212015,
-    "expires": 1766854212015
+    "expires": 1766854212015,
+    "hwidLock": true
   },
   {
     "username": "joyst",
