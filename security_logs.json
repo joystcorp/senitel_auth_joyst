@@ -1,0 +1,10 @@
+[
+  {
+    "timestamp": 1764268171646,
+    "type": "user_created",
+    "description": "User 123 created with standard security",
+    "username": "admin",
+    "ip": "127.0.0.1",
+    "severity": "low"
+  }
+]
