@@ -5,31 +5,5 @@
     "created": 1764262212015,
     "expires": 1766854212015,
     "hwidLock": true
-  },
-  {
-    "username": "joyst",
-    "password": "1",
-    "created": 1764262891152,
-    "expires": 1764266491152,
-    "hwidLock": true,
-    "hwid": null,
-    "lastLogin": null,
-    "loginCount": 0,
-    "active": true
-  },
-  {
-    "username": "123",
-    "password": "1",
-    "created": 1764268168142,
-    "expires": 1766860168142,
-    "hwidLock": true,
-    "hwid": null,
-    "lastLogin": null,
-    "loginCount": 0,
-    "active": true,
-    "securityLevel": "standard",
-    "allowedIPs": [],
-    "failedAttempts": 0,
-    "lockUntil": 0
   }
 ]
