@@ -1,17 +1,1 @@
-[
-  {
-    "username": "1223",
-    "password": "1",
-    "created": 1764268570102,
-    "expires": 1764873370101,
-    "hwidLock": false,
-    "hwid": null,
-    "lastLogin": null,
-    "loginCount": 0,
-    "active": true,
-    "securityLevel": "standard",
-    "allowedIPs": [],
-    "failedAttempts": 0,
-    "lockUntil": 0
-  }
-]
+[]
