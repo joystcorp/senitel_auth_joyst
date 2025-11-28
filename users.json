@@ -28,5 +28,20 @@
     "allowedIPs": [],
     "failedAttempts": 0,
     "lockUntil": 0
+  },
+  {
+    "username": "JOYST",
+    "password": "1",
+    "created": 1764357578685,
+    "expires": 1764361178685,
+    "hwidLock": true,
+    "hwid": null,
+    "lastLogin": null,
+    "loginCount": 0,
+    "active": true,
+    "securityLevel": "standard",
+    "allowedIPs": [],
+    "failedAttempts": 0,
+    "lockUntil": 0
   }
 ]
