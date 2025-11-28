@@ -20,5 +20,20 @@
     "allowedIPs": [],
     "failedAttempts": 0,
     "lockUntil": 0
+  },
+  {
+    "username": "1444",
+    "password": "1444",
+    "created": 1764346137635,
+    "expires": 1764432537635,
+    "hwidLock": true,
+    "hwid": null,
+    "lastLogin": null,
+    "loginCount": 0,
+    "active": true,
+    "securityLevel": "standard",
+    "allowedIPs": [],
+    "failedAttempts": 0,
+    "lockUntil": 0
   }
 ]
