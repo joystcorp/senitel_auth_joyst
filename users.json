@@ -34,7 +34,7 @@
     "password": "1",
     "created": 1764357578685,
     "expires": 1764361178685,
-    "hwidLock": true,
+    "hwidLock": false,
     "hwid": null,
     "lastLogin": null,
     "loginCount": 0,
