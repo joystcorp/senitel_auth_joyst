@@ -1,20 +1,5 @@
 [
   {
-    "username": "122",
-    "password": "1",
-    "created": 1764349355639,
-    "expires": 1764352955639,
-    "hwidLock": true,
-    "hwid": null,
-    "lastLogin": null,
-    "loginCount": 0,
-    "active": true,
-    "securityLevel": "standard",
-    "allowedIPs": [],
-    "failedAttempts": 0,
-    "lockUntil": 0
-  },
-  {
     "username": "123",
     "password": "1",
     "created": 1764356752950,
@@ -34,7 +19,7 @@
     "password": "1",
     "created": 1764357578685,
     "expires": 1764361178685,
-    "hwidLock": false,
+    "hwidLock": true,
     "hwid": null,
     "lastLogin": null,
     "loginCount": 0,
