@@ -1,17 +1,10 @@
 [
   {
-    "username": "1",
-    "password": "1",
-    "created": 1764262212015,
-    "expires": 1766854212015,
-    "hwidLock": true
-  },
-  {
     "username": "1223",
     "password": "1",
     "created": 1764268570102,
     "expires": 1764873370101,
-    "hwidLock": false,
+    "hwidLock": true,
     "hwid": null,
     "lastLogin": null,
     "loginCount": 0,
