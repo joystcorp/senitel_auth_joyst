@@ -28,5 +28,20 @@
     "allowedIPs": [],
     "failedAttempts": 0,
     "lockUntil": 0
+  },
+  {
+    "username": "5555",
+    "password": "5555",
+    "created": 1764959654179,
+    "expires": 1764963254179,
+    "hwidLock": true,
+    "hwid": null,
+    "lastLogin": null,
+    "loginCount": 0,
+    "active": true,
+    "securityLevel": "standard",
+    "allowedIPs": [],
+    "failedAttempts": 0,
+    "lockUntil": 0
   }
 ]
